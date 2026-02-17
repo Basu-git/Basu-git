@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basu-git&label=Profile%20views&color=0e75b6&style=flat" alt="basu-git" /> </p>
 
-- 🌱 I’m currently learning **Python,flask,Prompt Engineering**
+- 🌱 I’m currently learning **Java,DSA,SPRINGBOOT**
 
 - 📫 How to reach me **basavarajumachagi99@gmail.com**
 
